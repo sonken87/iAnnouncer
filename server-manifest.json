@@ -1,6 +1,6 @@
 {
-    "version":  "0.0.31",
-    "generatedAt":  "2026-06-20T07:02:44.6380745Z",
+    "version":  "0.0.32",
+    "generatedAt":  "2026-06-20T07:20:46.1145831Z",
     "deleteFiles":  [
 
                     ],
@@ -10,5 +10,11 @@
                       "size":  1488896,
                       "sha256":  "da98f251c652efd8d069595ac2e33a98e6c93a6766d4fc6b291a674da2d1e281"
                   }
-              ]
+              ],
+    "bundle":  {
+                   "url":  "server-bundles/server-update-0.0.32.zip",
+                   "file":  "server-update-0.0.32.zip",
+                   "size":  613867,
+                   "sha256":  "576511907e4f6f358cea3098dc76646a5998d0c53a08974848942f74aef74845"
+               }
 }
