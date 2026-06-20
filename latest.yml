@@ -1,8 +1,8 @@
-version: 0.0.29
+version: 0.0.30
 files:
-  - url: iAnnouncer_Pro_Setup_0.0.29.exe
-    sha512: wq74m6ru33KULdAME7e30OeGpsmcpr1Z7iueIybLVtDLYZtnoXpl3oOTsqZRKg47kQT5TziKCbeyxlnlS0mg4A==
-    size: 151924026
-path: iAnnouncer_Pro_Setup_0.0.29.exe
-sha512: wq74m6ru33KULdAME7e30OeGpsmcpr1Z7iueIybLVtDLYZtnoXpl3oOTsqZRKg47kQT5TziKCbeyxlnlS0mg4A==
-releaseDate: '2026-06-20T04:14:01.334Z'
+  - url: iAnnouncer_Pro_Setup_0.0.30.exe
+    sha512: v2nde5ln4C7tlm/rDRnvd7pVW7eftMqLRxo0bLEYjNb9WffcMItla5O88Pio0s7jkJqbV6Hfr4defIozzeFQzQ==
+    size: 151928505
+path: iAnnouncer_Pro_Setup_0.0.30.exe
+sha512: v2nde5ln4C7tlm/rDRnvd7pVW7eftMqLRxo0bLEYjNb9WffcMItla5O88Pio0s7jkJqbV6Hfr4defIozzeFQzQ==
+releaseDate: '2026-06-20T05:24:45.621Z'
