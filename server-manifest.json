@@ -1,6 +1,6 @@
 {
     "version":  "0.0.27",
-    "generatedAt":  "2026-06-20T02:35:56.4669535Z",
+    "generatedAt":  "2026-06-20T02:43:25.5765041Z",
     "deleteFiles":  [
 
                     ],
@@ -8,7 +8,7 @@
                   {
                       "path":  "server/iAnnouncer-Server.exe",
                       "size":  1459200,
-                      "sha256":  "4e2c4de2db70058a34c02b2281bbe8c3df767b8efff616b85c9d8746521bb0d9"
+                      "sha256":  "757967a8a6bd262678fddd9bd005ef3bcc7857418b02940a15376b876aae2868"
                   }
               ]
 }
