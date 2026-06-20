@@ -1,6 +1,0 @@
-﻿ja
-{GREET};ANAS;{DES};goto;{FLIGHTNUM};PreSafety1;son;PreSafety2;yamada;Presafety3
-en
-{GREET};
-
-

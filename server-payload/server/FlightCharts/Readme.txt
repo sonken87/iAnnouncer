@@ -1,1 +1,0 @@
-Put *.fcp into this folder.
